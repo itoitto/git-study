@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T15:05:45.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qvD4ja1eCreS79r4FkVR" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-11T15:06:08.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ytWUWxvhAwj3t_FRxui5" version="20.7.4" type="github" pages="2">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1194" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -212,6 +212,9 @@
         </mxCell>
         <mxCell id="inKZclpV61uVjIMxETrg-41" value="AWS Direct Connect &lt;br&gt;エンドポイント" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEEBF;" vertex="1" parent="1">
           <mxGeometry x="-164" y="385" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inKZclpV61uVjIMxETrg-42" value="顧客データセンタ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEEBF;" vertex="1" parent="1">
+          <mxGeometry x="-497" y="248.5" width="117" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
